@@ -8,4 +8,5 @@ public class Sistema {
     ArrayList<producto> productos=new ArrayList<producto>();
     ArrayList<factura> facturas=new ArrayList<factura>();
     
+    
 }

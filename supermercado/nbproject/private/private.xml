@@ -3,14 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/modelo/Sistema.java</file>
-            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/vista/view.java</file>
-            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/modelo/Dao_sistema.java</file>
-            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/modelo/Modelo.java</file>
-            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/controlador/Controlador.java</file>
-            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/modelo/usuario.java</file>
-            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/main/superm.java</file>
-            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/modelo/conexionBD.java</file>
+            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/vista/vistaUser.java</file>
+            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/vista/vistaMenu.java</file>
+            <file>file:/C:/Users/DAVID/supermarket/supermercado/src/vista/vistaAdmin.java</file>
         </group>
     </open-files>
 </project-private>
